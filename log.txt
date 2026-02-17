@@ -1,0 +1,16 @@
+commit 10f1209c51a53108192db64c92573b4422efbbde (HEAD -> main, origin/main, origin/HEAD)
+Author: Erica Santana <ericasantana@live.com>
+Date:   Tue Feb 17 12:29:39 2026 -0300
+
+    excluindo lob
+
+commit 1ca3c49b2607893e8e452fec75885a43db612d68
+Author: Erica de Santana Silva <ericasantana@MacBook-Air-de-Erica.local>
+Date:   Tue Feb 17 12:21:14 2026 -0300
+
+    adicionando arquivo git ignore
+
+commit 25086512cb81f8b55d57a97427958f081424ba17
+Author: Erica de Santana Silva <ericasantana@MacBook-Air-de-Erica.local>
+Date:   Tue Feb 17 12:19:40 2026 -0300
+:
